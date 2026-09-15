@@ -1,7 +1,7 @@
-# DurhamWIND — group website
+# Durham WindFlow — group website
 
-Source for **[durhamwind-lab.github.io](https://durhamwind-lab.github.io)**, the website of
-DurhamWIND, the Atmospheric Flow and Wind Energy Dynamics Group at Durham University.
+Source for **[durhamwindflow.github.io](https://durhamwindflow.github.io)**, the website of
+Durham WindFlow, the Atmospheric Flow and Wind Energy Dynamics Group at Durham University.
 
 Built with Jekyll on GitHub Pages. No theme, no JavaScript framework, no build step to run
 locally unless you want one.
@@ -11,14 +11,14 @@ locally unless you want one.
 ## ⚠️ Where the content lives
 
 **Do not edit people, publications or research themes in this repository.** They live in
-[`DurhamWIND-lab/.github`](https://github.com/DurhamWIND-lab/.github) under `Profile/data/`,
+[`DurhamWindFlow/.github`](https://github.com/DurhamWindFlow/.github) under `Profile/data/`,
 and are copied here automatically:
 
 | Edit this, in the `.github` repo | It becomes |
 |---|---|
-| `Profile/data/people.yml` | the [People](https://durhamwind-lab.github.io/people/) page, and `Profile/people.md` on the org page |
-| `Profile/data/publications.yml` | the [Publications](https://durhamwind-lab.github.io/publications/) page, and the table in the org README |
-| `Profile/data/projects.yml` | the [Research](https://durhamwind-lab.github.io/research/) page and the home page cards |
+| `Profile/data/people.yml` | the [People](https://durhamwindflow.github.io/people/) page, and `Profile/people.md` on the org page |
+| `Profile/data/publications.yml` | the [Publications](https://durhamwindflow.github.io/publications/) page, and the table in the org README |
+| `Profile/data/projects.yml` | the [Research](https://durhamwindflow.github.io/research/) page and the home page cards |
 | `Profile/data/site.yml` | group name, blurbs, contact details, role tiers, open positions |
 | `Profile/Images/` | member photographs |
 

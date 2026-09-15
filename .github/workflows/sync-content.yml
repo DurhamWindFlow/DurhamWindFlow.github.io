@@ -1,5 +1,5 @@
 # Pulls people, publications, research themes and photos from the group's
-# content repository (DurhamWIND-lab/.github) into this site.
+# content repository (DurhamWindFlow/.github) into this site.
 #
 # That repository is public, so this needs NO tokens and NO secrets. It polls
 # every 10 minutes, and can be triggered immediately from the Actions tab with
@@ -32,7 +32,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SOURCE_REPO: DurhamWIND-lab/.github
+  SOURCE_REPO: DurhamWindFlow/.github
   SOURCE_REF: main
 
 jobs:
